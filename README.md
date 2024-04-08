@@ -1,1 +1,1 @@
-# resilience-in-complex_networks
+# Universal Resilience in Complex Networks
